@@ -1,0 +1,2 @@
+# plantilla-init
+Entorno desarrollo
